@@ -1,0 +1,11 @@
+{
+  "name": "过个球年",
+  "symbol": "过个球年",
+  "description": "2026 年，没钱过年？那就“过个球年”！过个球年，是一款把中国春节和世界杯打包成一个梗的 Meme Token。不管是过年还是踢球，用这枚“球”，把所有压力都一脚踢开，笑着迎接新年。",
+  "image": "https://raw.githubusercontent.com/GGQN/ggqn-assets/main/logo.png",
+  "attributes": [
+    { "trait_type": "Theme", "value": "春节 × 世界杯" },
+    { "trait_type": "Year",  "value": "2026" },
+    { "trait_type": "Type",  "value": "Meme" }
+  ]
+}
